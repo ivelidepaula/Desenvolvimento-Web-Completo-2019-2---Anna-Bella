@@ -4,6 +4,12 @@ body {
 
 table {
     width: 500px;
+    background-color: #D3D5BD;
+    padding: 20px 0 20px 10px;
+}
+
+#table {
+    background-color:  #D3D5BD;
 }
 
 div {
@@ -12,4 +18,8 @@ div {
 
 p {
     text-align: justify;
+}
+
+footer {
+    text-align: center;
 }
