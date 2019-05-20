@@ -5,3 +5,11 @@ body {
 table {
     width: 500px;
 }
+
+div {
+    width: 900px;
+}
+
+p {
+    text-align: justify;
+}
